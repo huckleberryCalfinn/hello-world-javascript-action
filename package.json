@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "description": "write a javascript github action getting started/tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huckleberrycalfinn/hello-world-javascript-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huckleberrycalfinn/hello-world-javascript-action/issues"
+  },
+  "homepage": "https://github.com/huckleberrycalfinn/hello-world-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.0.3"
+  }
+}
